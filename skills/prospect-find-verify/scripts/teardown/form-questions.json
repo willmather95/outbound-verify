@@ -1,0 +1,5 @@
+{"state_key": "item", "questions": {
+ "appointment_form": {"type": "noul", "instructions": "Do `item.field_labels` and `item.page` show a form for requesting an appointment or consult?"},
+ "free_text": {"type": "noul", "instructions": "Do `item.field_labels` include an open free-text box (message, how can we help) where a visitor could describe their dental problem?"},
+ "asks_health_directly": {"type": "noul", "instructions": "Do `item.field_labels` directly ask for health details such as symptoms, treatment wanted, insurance, date of birth or medical history?"}
+}}

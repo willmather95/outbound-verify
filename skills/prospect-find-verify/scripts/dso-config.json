@@ -1,0 +1,7 @@
+{
+  "_note": "Edit these lists, not verify.py. Patterns are case-insensitive regex.",
+  "dso_block": ["clearchoice","aspen dental","affordable dentures","nuvia","heartland dental","pacific dental","smile brands","western dental","dental care alliance","coast dental","legacy dental group"],
+  "group_language": ["a proud member of","a member of the .{0,40} family","part of the .{0,40} (family|network|group)","\\bpartner(ed)? with\\b","dental partners","dental group","management services","locations? across","\\b\\d{2,} (locations|offices)\\b"],
+  "full_arch_proof": ["all[- ]on[- ]?(4|four|6|six|x)","full[- ]arch","teeth[- ]in[- ]a[- ]day","full[- ]mouth (dental )?implants","implant[- ]supported dentures?","hybrid (denture|bridge)"],
+  "about_paths": ["about","about-us","about-us/","our-practice","privacy-policy","terms"]
+}

@@ -1,0 +1,8 @@
+{"state_key": "item", "questions": {
+ "ad_or_analytics": {"type": "noul", "instructions": "Is `item.host` (see `item.example_paths`) an advertising, remarketing or web-analytics service that measures visitors?"},
+ "session_recording": {"type": "noul", "instructions": "Is `item.host` a session-recording or heatmap service that records how visitors move, click or type?"},
+ "booking": {"type": "noul", "instructions": "Is `item.host` an online appointment booking or scheduling service?"},
+ "call_tracking": {"type": "noul", "instructions": "Is `item.host` a call-tracking service that swaps or tracks phone numbers?"},
+ "form_or_crm": {"type": "noul", "instructions": "Is `item.host` a form-handling, chat, CRM or lead-capture service that receives what visitors type?"},
+ "needed_service": {"type": "noul", "instructions": "Is `item.host` a plain infrastructure service (fonts, CDN, maps, video, captcha, bot protection, accessibility, site builder assets) rather than tracking?"}
+}}

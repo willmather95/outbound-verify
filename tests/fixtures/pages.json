@@ -1,0 +1,18 @@
+{
+  "https://brightsmile.example/": "<h1>Bright Smile Implant Studio</h1><p>Dr. Rivera has placed All-on-4 full-arch implants since 2012. Teeth in a day consults every Tuesday.</p>",
+  "https://brightsmile.example/contact": "<p>Email us: hello@brightsmile.example</p>",
+  "https://brightsmile.example/about": "<p>Owner-run since 2012.</p>",
+
+  "https://lakeside.example/": "<h1>Lakeside Family Dental</h1><p>Full-arch implant dentistry.</p>",
+  "https://lakeside.example/contact": "<p>office@lakeside.example</p>",
+  "https://lakeside.example/about": "<p>We are a proud member of the Northstar Dental Partners family.</p>",
+
+  "https://riverside-chain.example/": "<p>Implant-supported dentures. info@riverside-chain.example</p>",
+
+  "https://oakstreet.example/": "<h1>Oak Street Dentistry</h1><p>Full-arch implants. Call us.</p>",
+  "https://oakstreet.example/contact": "<p>Use the form below.</p>",
+
+  "https://harbor.example/": "<p>Hybrid denture and full arch cases. frontdesk@harbor.example</p>",
+
+  "https://maplegrove.example/": "<p>Cleanings, whitening and crowns. smile&#64;maplegrove.example</p>"
+}
